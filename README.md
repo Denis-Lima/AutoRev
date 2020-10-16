@@ -82,4 +82,6 @@ todos os códigos e diagramas desenvolvidos.
 * Eclipse IDE.
 * Plataforma Java SE.
 
-###### Autor: [Github](https://github.com/Denis-Lima) [Linkedin](https://www.linkedin.com/in/denis-f-lima/)
+###### Autor: Denis Lima
+[Github](https://github.com/Denis-Lima)  
+[Linkedin](https://www.linkedin.com/in/denis-f-lima/)
